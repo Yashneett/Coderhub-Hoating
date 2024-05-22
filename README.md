@@ -3,6 +3,7 @@
 Welcome to the Coderhub EdTech Platform Repository!
 
 This comprehensive repository houses the backbone of the revolutionary Coderhub EdTech platform – a dynamic and feature-rich MERN stack application that is set to reshape the landscape of online education. With a seamless blend of technology and education, CodePlay empowers both instructors and students, fostering a vibrant learning community.
+The front end is part of the platform that the user interacts with. It's like the "face" of the platform that the user sees and interacts with. The front end of StudyNotion is designed using a tool called Figma, which is a popular design tool that allows for the creation of clean and minimal user interfaces. You can take a look at the Figma design for the StudyNotion front-end by following this link: https://www.figma.com/file/Mikd0FjHKAofUlWQSi70nf/StudyNotion_shared.
 
 ## Features
 
